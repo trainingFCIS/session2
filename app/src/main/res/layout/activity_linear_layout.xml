@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context="shahen.mahmoud.session2.LinearLayout">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#e21d1d"
+        android:layout_weight="1"
+        ></View>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#27e21d"
+        android:layout_weight="1"
+        ></View>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#1d4be2"
+        android:layout_weight="1"
+        ></View>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fbff15"
+        android:layout_weight="1"
+        ></View>
+</LinearLayout>
